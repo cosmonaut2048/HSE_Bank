@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w+qBpgi1f0U=",
+  "success": true,
+  "projectFilePath": "D:\\Прога\\C#\\КПО\\HSE_Bank\\HSE_Bank-master\\HSE_Bank\\HSE_Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zizen\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\zizen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
